@@ -1,7 +1,7 @@
 {
   "name": "common-package",
   "version": "0.0.1",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
